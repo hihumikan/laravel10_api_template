@@ -1,7 +1,6 @@
 # laravel10_api_template
 
 ## Description
-テンプレリポジトリ(ハッカソン等)
 
 ## Features
 
