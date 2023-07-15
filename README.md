@@ -2,7 +2,6 @@
 
 ## Description
 
-
 ## Features
 
 - Github Actions
@@ -12,6 +11,11 @@
     - 自動でPR作成者をassignする
   - openai-pr-reviewer
     - PRをopenaiにレビュー依頼する
+  - setup-tbls
+    - DBのテーブル定義書を自動生成する
+  - deploy-to-github-pages.yml
+    - swaggerをgithub pagesにデプロイする
+    - swaggerはL5-Swaggerで自動生成する
   - code-check
     - reviewdog
       - コードをチェックしてコメントする
@@ -41,5 +45,7 @@
 - .vscode
   - PHP Debug
 - Taskfile
+- pre-commit 
 - .tool-versions
   - pre-commit
+
