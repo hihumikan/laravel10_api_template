@@ -2,6 +2,7 @@
 
 ## Description
 
+
 ## Features
 
 - Github Actions
@@ -42,8 +43,3 @@
 - Taskfile
 - .tool-versions
   - pre-commit
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
