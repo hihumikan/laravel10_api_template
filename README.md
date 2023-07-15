@@ -1,7 +1,7 @@
 # laravel10_api_template
 
 ## Description
-ぼくがかんがえたさいきょうのlaravel初期リポジトリ
+ハッカソンなど
 
 ## Features
 
