@@ -46,7 +46,13 @@
 - .vscode
   - PHP Debug
 - Taskfile
-- pre-commit 
+  - コンテナ関連
+  - テスト関連
+  - データベース関連
+  - 依存関係
+- pre-commit
+  - credential関連
+- EditorConfig
 - .tool-versions
   - pre-commit
 
